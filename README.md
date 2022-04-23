@@ -1,1 +1,1 @@
-# econometrics2022
+# Econometrics2022
